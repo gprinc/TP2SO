@@ -1,0 +1,7 @@
+/*
+* GDT.c
+*/
+
+void initGDT(){
+	
+}
